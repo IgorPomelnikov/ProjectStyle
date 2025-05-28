@@ -53,11 +53,11 @@
 
 - В названиях дорожек и папок все слова раздельно с большой буквы
 - Используем следующие сокращения:
-    1. Bass guitar - Bass
-    1. Rythm guitar - Rythm
-    1. Lead guitar - Lead
-    1. Voice - Vox
-    1. Back vocal group - BVG
+    - Bass guitar - Bass
+    - Rythm guitar - Rythm
+    - Lead guitar - Lead
+    - Voice - Vox
+    - Back vocal group - BVG
 - В название дорожки можно добавлять через пробел от названия инструмента дополнительную информацию, например 
     - Rythm Clean
     - Lead FX
