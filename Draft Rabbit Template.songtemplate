@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<DocumentTemplate>
+	<Attribute id="Document:Title" value="Draft Rabbit Template"/>
+	<Attribute id="Document:Description" value="Шаблон для быстрого старта записи и последующего сведения"/>
+	<Attribute id="Document:Icon" value="Draft Rabbit Template.png"/>
+	<Attribute id="Document:Template" value="Draft Rabbit Template.data"/>
+</DocumentTemplate>
