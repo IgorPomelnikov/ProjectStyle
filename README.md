@@ -1,5 +1,13 @@
 # Project style
 
+Для работы с шаблоном потребуются: 
+
+- Studio One 7 pro
+- Superior Drummer 3 и библиотека DEATH & DARKNESS SDX - Death part
+
+
+Если всё это есть, то скачай эти файлы и закинь себе в папку `<папка, которая указана в User Data Locations>\templates\v7\Songs`
+
 ## Базовые настройки проекта
 
 - Включено авто сохранение через каждые 5 мин минимум
@@ -56,9 +64,33 @@
     - Sample Intro
 
 ## Используемые плагины
+
 Для новых проектов:
 
-Superior Drummer 3
+- Superior Drummer 3
+- Neural DSP
+
+Для старых проектов:
+
+- Virtual mix rack x64
+- Guitar rig 5
+- Lisp x64
+- Grain Space
+- Helix Native
+- AmpliTube 4
+- Slate Digital FG-X x64
+- VBC FG-Grey
+- VBC FG-Red x64
+- Virtual tape machines 
+- Ozone 8
+- Ozone 9
+- Hysteresis
+- Pulse
+- ReValver 4 x64
+- TS-999
+- Emissary
+- Steven Slate Drums  - Terry Date
+- Kontakt 7
 
 ## Сохранение и шаринг проекта
 - Новые версии сохраняются через инструмент версионирования
